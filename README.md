@@ -27,3 +27,4 @@ The score is generated based on common content factors that influence AI underst
 
 ## Why this matters
 AI tools are becoming a discovery point. If a product is not easily understood by AI, then it reduces the chances of being recommended by AI
+If it recognizes things well , then it will really boost our site or aany product.
