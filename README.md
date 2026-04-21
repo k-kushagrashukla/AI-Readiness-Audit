@@ -27,6 +27,3 @@ The score is generated based on common content factors that influence AI underst
 
 ## Why this matters
 AI tools are becoming a discovery point. If a product is not easily understood by AI, then it reduces the chances of being recommended by AI
-
-## 📌 Note
-This is a prototype built to demonstrate the concept of "AI Readiness" and how content structure impacts AI understanding.
