@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Readiness Audit</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>AI Readiness Audit</h1>
+    <p>check how well your website is understood by AI</p>
+
+    <input type="text" id="urlInput" placeholder="Enter website URL" />
+    <button onclick="runAudit()">Run audit</button>
+
+    <div id="result" class="hidden">
+        <h3>how score is calculated</h3>
+        <p>this score is based on content clarity, structure, and how easily ai can interpret the website</p>
+      <h2>Score: <span id="score"></span>/100</h2>
+
+      <h3>issues:</h3>
+      <ul id="issues"></ul>
+
+      <h3>why this matters:</h3>
+      <p id="explanation"></p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
